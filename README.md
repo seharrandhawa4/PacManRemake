@@ -18,4 +18,4 @@ Menu:
 
 GamePlay :
 
-![GamePlay](https://github.com/seharrandhawa4/PacManSehar/blob/master/assets/Screenshot%202024-09-04%182209.png)
+![GamePlay](https://github.com/seharrandhawa4/PacManSehar/blob/master/assets/Screenshot%202024-09-04%20182209.png)
