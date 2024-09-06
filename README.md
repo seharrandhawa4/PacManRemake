@@ -11,4 +11,11 @@ Eat all the pellets while avoiding ghosts to win the game!
 
 Collect power-ups to temporarily turn the tables on the ghosts.
 
+## SnapShots
+Menu:
 
+![Menu](https://github.com/seharrandhawa4/PacManSehar/blob/master/assets/Screenshot%202024-09-04%20182133.png)
+
+GamePlay :
+
+![GamePlay](https://github.com/seharrandhawa4/PacManSehar/blob/master/assets/Screenshot%202024-09-04%182209.png)
